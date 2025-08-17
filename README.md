@@ -1,1 +1,1 @@
-rushed project for school lmao
+Simple 3D Maze Horror Game made using Unity
